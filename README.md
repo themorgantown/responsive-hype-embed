@@ -3,7 +3,7 @@ This document is helpful for testing embedded responsive Hype documents. It will
 
     <div id="hypeembedsizedetector_hype_container" class="HYPE_document" style="margin:auto;position:relative;width:100%;height:400px;overflow:hidden;">
 		<script type="text/javascript" charset="utf-8" src="https://themorgantown.github.io/responsive-hype-embed/HypeEmbedSizeDetector.hyperesources/hypeembedsizedetector_hype_generated_script.js?94255"></script>
-	</div></div>
+	</div>
     
 The first scene simulates a Hype document that is responsive in the Width Dimension only. The second scene simulates a Hype document responsive in both the Width and Height dimension. 
 
