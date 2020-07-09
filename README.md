@@ -1,4 +1,6 @@
-This document is helpful for testing embedded responsive Hype documents. It will show you the available width and height for your Hype projects before you structure them in Hype. To use this, embed the following code on your HTML page: 
+This document is helpful for measuring the available width and height for your Hype projects before embedding them in your webpage.
+
+This embed code (which is itself a Hype document) measures the `offsetHeight` and `offsetWidth` when loaded and displays it. To use this, embed the following code on your HTML page: 
 
 
     <div id="hypeembedsizedetector_hype_container" class="HYPE_document" style="margin:auto;position:relative;width:100%;height:400px;overflow:hidden;">
