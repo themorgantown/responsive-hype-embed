@@ -62,8 +62,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierPosition</string>
 		<string>kPropertiesMenuItemIdentifierAnimated</string>
+		<string>kPropertiesMenuItemIdentifierPosition</string>
 	</array>
 	<key>documentVersion</key>
 	<string>648</string>
@@ -91,17 +91,17 @@
 	<string>	
 	</string>
 	<key>lastCheckDate</key>
-	<date>2020-07-09T18:26:02Z</date>
+	<date>2020-07-10T15:27:14Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
-		<integer>2</integer>
+		<integer>1</integer>
 		<key>customizableLayout</key>
 		<dict>
 			<key>frame</key>
-			<string>{{0, 0}, {1920, 906}}</string>
+			<string>{{0, 0}, {1975, 906}}</string>
 			<key>identifier</key>
-			<string>container 33</string>
+			<string>container 231</string>
 			<key>isCustomizableViewContainer</key>
 			<true/>
 			<key>isCustomizableViewWrapper</key>
@@ -112,9 +112,9 @@
 			<array>
 				<dict>
 					<key>frame</key>
-					<string>{{0, 0}, {1649, 906}}</string>
+					<string>{{0, 0}, {1704, 906}}</string>
 					<key>identifier</key>
-					<string>container 251</string>
+					<string>container 83</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -125,9 +125,9 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{0, 0}, {1378, 906}}</string>
+							<string>{{0, 0}, {1433, 906}}</string>
 							<key>identifier</key>
-							<string>container 240</string>
+							<string>container 72</string>
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -140,7 +140,7 @@
 									<key>frame</key>
 									<string>{{0, 0}, {135, 906}}</string>
 									<key>identifier</key>
-									<string>container 230</string>
+									<string>container 62</string>
 									<key>isCustomizableViewContainer</key>
 									<true/>
 									<key>isCustomizableViewWrapper</key>
@@ -161,9 +161,9 @@
 								</dict>
 								<dict>
 									<key>frame</key>
-									<string>{{136, 0}, {1242, 906}}</string>
+									<string>{{136, 0}, {1297, 906}}</string>
 									<key>identifier</key>
-									<string>container 231</string>
+									<string>container 63</string>
 									<key>isCustomizableViewContainer</key>
 									<true/>
 									<key>isCustomizableViewWrapper</key>
@@ -174,7 +174,7 @@
 									<array>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 0}, {1242, 465}}</string>
+											<string>{{136, 0}, {1297, 465}}</string>
 											<key>identifier</key>
 											<string>container 127</string>
 											<key>isCustomizableViewContainer</key>
@@ -187,7 +187,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{136, 0}, {1242, 465}}</string>
+													<string>{{136, 0}, {1297, 465}}</string>
 													<key>identifier</key>
 													<string>timelineCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -197,7 +197,7 @@
 										</dict>
 										<dict>
 											<key>frame</key>
-											<string>{{136, 466}, {1242, 440}}</string>
+											<string>{{136, 466}, {1297, 440}}</string>
 											<key>identifier</key>
 											<string>container 126</string>
 											<key>isCustomizableViewContainer</key>
@@ -210,7 +210,7 @@
 											<array>
 												<dict>
 													<key>frame</key>
-													<string>{{136, 466}, {1242, 440}}</string>
+													<string>{{136, 466}, {1297, 440}}</string>
 													<key>identifier</key>
 													<string>sceneEditorCustomizableContainer</string>
 													<key>isCustomizableViewContainer</key>
@@ -224,9 +224,9 @@
 						</dict>
 						<dict>
 							<key>frame</key>
-							<string>{{1379, 0}, {270, 906}}</string>
+							<string>{{1434, 0}, {270, 906}}</string>
 							<key>identifier</key>
-							<string>container 239</string>
+							<string>container 71</string>
 							<key>isCustomizableViewContainer</key>
 							<true/>
 							<key>isCustomizableViewWrapper</key>
@@ -237,7 +237,7 @@
 							<array>
 								<dict>
 									<key>frame</key>
-									<string>{{1379, 0}, {270, 906}}</string>
+									<string>{{1434, 0}, {270, 906}}</string>
 									<key>identifier</key>
 									<string>inspectorCustomizableContainer</string>
 									<key>isCustomizableViewContainer</key>
@@ -249,9 +249,9 @@
 				</dict>
 				<dict>
 					<key>frame</key>
-					<string>{{1650, 0}, {270, 906}}</string>
+					<string>{{1705, 0}, {270, 906}}</string>
 					<key>identifier</key>
-					<string>container 250</string>
+					<string>container 82</string>
 					<key>isCustomizableViewContainer</key>
 					<true/>
 					<key>isCustomizableViewWrapper</key>
@@ -262,7 +262,7 @@
 					<array>
 						<dict>
 							<key>frame</key>
-							<string>{{1650, 0}, {270, 906}}</string>
+							<string>{{1705, 0}, {270, 906}}</string>
 							<key>identifier</key>
 							<string>resourcesCustomizableContainer</string>
 							<key>isCustomizableViewContainer</key>
@@ -275,7 +275,7 @@
 		<key>keyframeTimelineHeight</key>
 		<real>124</real>
 		<key>mainWindowFrame</key>
-		<string>158 241 1920 950 0 0 2560 1417 </string>
+		<string>442 222 1975 950 0 0 2560 1417 </string>
 		<key>openTabs</key>
 		<array>
 			<dict>
@@ -296,7 +296,7 @@
 			</dict>
 		</array>
 		<key>selectedTabIndex</key>
-		<integer>3</integer>
+		<integer>2</integer>
 		<key>showInspectorView</key>
 		<true/>
 		<key>showResourcesView</key>
@@ -537,7 +537,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1242, 440}</string>
+					<string>{1297, 440}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -689,10 +689,16 @@ var navigatorinfo = navigator.userAgent;
 function reportWindowSize() {
 	var h = hypeEl.offsetHeight;
 	var w = hypeEl.offsetWidth;
-	hypeDocument.getElementById('rect2').innerHTML = "This scene has a 100% height, and its current height is: "+h+"px &lt;br&gt;The width of this scene is 100%, and the current width of the Hype document element is: &lt;br&gt; "+w+"px&lt;br&gt;&lt;br&gt;Browser / device info: Navigator.useragent: "+navigatorinfo+"&lt;/p&gt;";
+	// divide the offsetWidth by the scene's width to get the scale factor: 
+	var scale = w / 600; 
+	hypeDocument.getElementById('rect2').innerHTML = "This scene has a 100% height, and its current height is: "+h+"px &lt;br&gt;The width of this scene is 100%, and the current width of the Hype document element is: &lt;br&gt; "+w+"px, with a current scale factor of "+scale+"&lt;br&gt;&lt;br&gt;Browser / device info: Navigator.useragent: "+navigatorinfo+"&lt;/p&gt;";
 	if ( h &lt; 1 ) {
 		alert('The height of the document is less than 1. This is likely because its parent element height is not set');
+	
+	
+	
 	};
+	
 }
 
 reportWindowSize();
@@ -720,9 +726,11 @@ window.onresize = reportWindowSize;
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>C1D579C1-2854-4A41-9EC6-B8F75B05AA4A-36476-00022D1354F1571D</string>
+			<string>48A03360-E0D8-4D1E-9DA6-977C8917EFE2-2065-0002772D7ABBB18D</string>
 			<key>selectedObjects</key>
-			<array/>
+			<array>
+				<string>34</string>
+			</array>
 			<key>symbol</key>
 			<dict>
 				<key>addToNewSceneControllers</key>
@@ -743,9 +751,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -773,15 +781,15 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>WordWrap</string>
+							<string>ScaleY</string>
 							<key>objectValue</key>
-							<string>break-word</string>
+							<string>0.8026315789473685</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>WordWrap</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>break-word</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -791,21 +799,21 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>34</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>PaddingBottom</string>
 							<key>objectValue</key>
 							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ScaleY</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>0.8026315789473685</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Parent</string>
-							<key>objectValue</key>
-							<string>34</string>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -881,9 +889,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#000</string>
 						</dict>
 					</array>
 					<key>26</key>
@@ -920,6 +928,12 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>34</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
@@ -929,12 +943,6 @@ window.onresize = reportWindowSize;
 							<string>BackgroundColor</string>
 							<key>objectValue</key>
 							<string>#F0F0F0</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Parent</string>
-							<key>objectValue</key>
-							<string>34</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1177,9 +1185,9 @@ window.onresize = reportWindowSize;
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>271px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1297,9 +1305,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>271px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>34</key>
@@ -1308,13 +1316,19 @@ window.onresize = reportWindowSize;
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>Group</string>
+							<string>scalinggroup-scene2</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>Position</string>
 							<key>objectValue</key>
 							<string>absolute</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>DomID</string>
+							<key>objectValue</key>
+							<string>scalinggroup-scene2</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1501,15 +1515,15 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingTop</string>
-							<key>objectValue</key>
-							<string>22px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>TagName</string>
 							<key>objectValue</key>
 							<string>div</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingTop</string>
+							<key>objectValue</key>
+							<string>22px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1702,7 +1716,7 @@ window.onresize = reportWindowSize;
 		</dict>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>C1D579C1-2854-4A41-9EC6-B8F75B05AA4A-36476-00022D1354F1571D</string>
+			<string>48A03360-E0D8-4D1E-9DA6-977C8917EFE2-2065-0002772D7ABBB18D</string>
 			<key>selectedObjects</key>
 			<array/>
 			<key>symbol</key>
@@ -1737,9 +1751,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>Display</string>
 							<key>objectValue</key>
-							<string>#E8EBED</string>
+							<string>inline</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1749,9 +1763,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Display</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>inline</string>
+							<string>#E8EBED</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1932,9 +1946,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1974,15 +1988,15 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingBottom</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>Parent</string>
 							<key>objectValue</key>
 							<string>35</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingBottom</string>
+							<key>objectValue</key>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2016,9 +2030,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>2</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2028,9 +2042,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>2</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2052,9 +2066,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#000</string>
 						</dict>
 					</array>
 					<key>22</key>
@@ -2091,6 +2105,12 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>35</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
@@ -2100,12 +2120,6 @@ window.onresize = reportWindowSize;
 							<string>BackgroundColor</string>
 							<key>objectValue</key>
 							<string>#F0F0F0</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Parent</string>
-							<key>objectValue</key>
-							<string>35</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2354,9 +2368,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2384,15 +2398,15 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>WordWrap</string>
+							<string>ScaleY</string>
 							<key>objectValue</key>
-							<string>break-word</string>
+							<string>0.7884615384615384</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ClassType</string>
+							<string>WordWrap</string>
 							<key>objectValue</key>
-							<string>Text</string>
+							<string>break-word</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2402,21 +2416,21 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
+							<string>Parent</string>
+							<key>objectValue</key>
+							<string>35</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
 							<string>PaddingBottom</string>
 							<key>objectValue</key>
 							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ScaleY</string>
+							<string>ClassType</string>
 							<key>objectValue</key>
-							<string>0.7884615384615384</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>Parent</string>
-							<key>objectValue</key>
-							<string>35</string>
+							<string>Text</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2492,18 +2506,18 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#000</string>
 						</dict>
 					</array>
 					<key>28</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>271px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2621,9 +2635,9 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>271px</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>35</key>
@@ -2711,9 +2725,9 @@ window.onresize = reportWindowSize;
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2765,13 +2779,13 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorLeft</string>
+							<string>BorderColorTop</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorTop</string>
+							<string>BorderColorLeft</string>
 							<key>objectValue</key>
 							<string>#D8DDE4</string>
 						</dict>
@@ -2807,15 +2821,15 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderColorRight</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>BackgroundGradientStartColor</string>
 							<key>objectValue</key>
 							<string>#5D74ED</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorRight</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2867,15 +2881,15 @@ window.onresize = reportWindowSize;
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1px</string>
 						</dict>
 					</array>
 				</dict>
